@@ -13,4 +13,4 @@ Technologies Used
 **HTML**: Structure and content of the web pages.
 **CSS**: Styling and layout of the website.
 
-Thank you visiting my Udemy-Clone website!
+Thank you visiting my Udemy-Clone website
